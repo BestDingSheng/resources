@@ -13,6 +13,7 @@
 |饿了么|岗位不限|Henry|上海|
 |美团|岗位不限|Grace|上海|
 |陆金所|前端|方晓|上海|
+|拼多多|岗位不限|panbo@pinduoduo.com|广州 上海 |
 |科大讯飞|前端|剧中人| 合肥| 
 |诺亚财富|岗位不限| Two hundred years| 上海 |
 |哔哩哔哩|[详情请戳我](https://www.bilibili.com/blackboard/join-list.html) |奶黄包| 上海 |
