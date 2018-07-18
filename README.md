@@ -7,7 +7,8 @@
 | 众安保险 | [详情请戳我](https://app.mokahr.com/recommendation-apply/zhongan#/?anchorName=000&_k=oiq92t)| 丁盛 | 北京 上海 深圳 杭州|
 | 阿里巴巴 | [详情请戳我](https://job.alibaba.com/zhaopin/position_detail.htm?trace=qrcode_share&positionCode=GP053720) | fengfuming2007|北京 上海 深圳 杭州|
 |蚂蚁金服|前端H5，安卓，ios，后端java，中端node| 马隽D6 |上海|
-|百度|岗位不限|顺凯|北 上 光 深|
+|天猫|开发|青菜|杭州|
+|百度|岗位不限|顺凯|北 上 广 深|
 |微信|前端 急招|jerry|广州 |
 |今日头条|开发 测试 产品 运营|王鹏举| 北京 上海 杭州|
 |小米|开发 测试 产品等|小豆丁| 北京 上海 深圳 |
