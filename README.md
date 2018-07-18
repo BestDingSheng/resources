@@ -19,6 +19,7 @@
 |途虎养车|开发 产品 设计等| CH |上海|
 |51信用卡|开发 产品 设计等| 昊天 |杭州| 
 |58同城|前端 java 算法|郭慧琴|北京|
+|携程|[详情请点击](http://neitui.zhiye.com/ctrip#recommendjobs)|青山隐隐|上海|
 |诺亚财富|岗位不限|谢书愉| 上海 |
 |哔哩哔哩|[详情请戳我](https://www.bilibili.com/blackboard/join-list.html) |奶黄包| 上海 |
 |深圳500彩票|测试 设计 前端| 澜夕 |深圳|
