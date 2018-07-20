@@ -49,6 +49,7 @@
 |易鑫集团|岗位不限|郑超|北京|
 |易简在线|ios 安卓 15-20k|罗神丸|广州|
 |CVTE|[详情请点击](http://hr.cvte.com/)|灬C灬C灬|广州|
+|巧房|[详情请点击](https://jobs.51job.com/all/co3366539.html#syzw)|邓胜辉|上海|
 
 更新ing...
 
