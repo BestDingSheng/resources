@@ -53,7 +53,6 @@
 |盈盈理财|前端 java|朕晓|杭州|
 |杭州蚂郭科技|前端 中级 高级|eden| 杭州|
 |易鑫集团|岗位不限|郑超|北京|
-|易简在线|ios 安卓 15-20k|罗神丸|广州|
 |CVTE|[详情请点击](http://hr.cvte.com/v2/positions?place=0&type=0&time=0&keyword=)|灬C灬C灬|广州|
 |巧房|[详情请点击](https://jobs.51job.com/all/co3366539.html#syzw)|邓胜辉|上海|
 |东方财富|.net 测试 ios 安卓 前端|daisy|上海|
