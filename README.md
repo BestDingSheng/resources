@@ -145,15 +145,10 @@
 
 ## 联系方式
 
-　　
-<div>
+<div align=center><img src='./img/WechatIMG5.jpeg' width='30%'></div>
+<div align=center>前端技术交流\求职招聘内推\自驾旅游\户外徒步\风光人像摄影 </div>
+<div align=center>欢迎交流</div>
 
-<center>
-    <img src='./img/WechatIMG5.jpeg' width='30%'>
-    </center>
-<center>前端技术交流\求职招聘内推\自驾旅游\户外徒步\风光人像摄影 </center>
-<center>欢迎交流</center>
-</div>
 
 
 
