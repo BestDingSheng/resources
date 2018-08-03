@@ -154,6 +154,10 @@
 <img src='./img/WechatIMG13.jpeg' width='30%'>
 </div>
 
+## 公众号
+
+> 个人公众号 : 这里有大佬 
+
 ## 联系方式
 
 <div align=center><img src='./img/WechatIMG5.jpeg' width='30%'></div>
