@@ -95,10 +95,17 @@
 
 在想内推大厂之前，自己先去从各个途径去了解大厂的一些要求！比如说某里P6的一些要求看看和自己是否匹配，如果差距很大话~建议先提升自己的相关技能再去面试
 
-
 ## 群内招聘注意事项
 
 建议大家在群内发招聘的时候，提供下要求薪水区间和公司名称。这样大家也方便查询信息决定是否投简历。
+
+## 微信群
+
+由于要进群的朋友太多，又要保持群的质量~ 现在开启了2群，2群目前群成员200多人是免费进的，内推的信息我也会在2群里面同步，不过质量会比较差点 ~
+
+1群目前400多人每个人都是我手动邀请进来的，进群需要自我介绍3张照片，每天都很活跃而且妹子超级多，不仅可以求职招聘 日常吹水 技术交流 还会不定期组织线下聚餐~ 维护这个群很费精力 目前是收费制度的 ，入群方式和群介绍可以看下面！
+
+**要进群的话，加我好友备注 进免费还是收费群~**
 
 ## 群介绍&&入群方式
 
@@ -156,11 +163,27 @@
 
 ## 公众号
 
-> 个人公众号 : 这里有大佬 
+> 个人公众号 : “这里有大佬” 欢迎大家关注 每周一会推送招聘求职相关的专栏 平时会发布一些生活相关的文章 ~ 公众号目前已经开通流量主（广告业务）阅读文章的同时在顺便点点 文中或者文末的广告 就是对我最大的支持
 
-## 联系方式
+公众号每周一会推送求职or招聘的专栏，本公众号目前粉丝过万 阅读量过千 希望能在这里帮您找到合适的候选人 或者 您心仪的公司 **重点是免费的哦不收取任何费用** 还在等什么快来投稿吧~ 
 
-<div align=center><img src='./img/WechatIMG5.jpeg' width='30%'></div>
+招聘者投稿格式 https://mp.weixin.qq.com/s/eZEPQzR_kxkeLU-Zwak2sg
+
+求职者投稿格式 https://mp.weixin.qq.com/s/u8oeg8PVODW42H0q7aZ1Ng
+
+<div align=center><img src='https://mmbiz.qpic.cn/mmbiz_jpg/FQwwhfsJ9Sz9ficQV8TYPnL7sFGla38f1wOa3LtyNE8vGf1yn9WGFSUSb9BQvQiaNjIic205wIja83dWPpr1IaUuA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1' width='50%'></div>
+
+
+<div align=center>扫描上方二维码即可关注</div>
+
+## 我的联系方式
+
+<div align=center>
+<img src='./img/WechatIMG5.jpeg' width='30%'>
+<img src='./img/WechatIMG7.jpeg' width='30%' style="margin-left:15px">
+</div>
+<br>
+<div align=center>如果你觉得对你有帮助，那就随意打赏吧</div>
 <br>
 <div align=center>IT技术交流\求职招聘内推\自驾旅游\户外徒步\风光人像摄影 </div>
 <br>
