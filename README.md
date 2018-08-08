@@ -107,7 +107,9 @@
 
 本群目的 : 求职 招聘 交友
 
-本人目前已经维护了3个群 成员1000来人 分布在全国各地 各个职业都有 多数以开发为主！基本覆盖全国各家知名互联网企业 ，内推资源丰富 ~ 
+本人目前已经维护了3个群 成员1000来人 分布在全国各地 各个职业都有 多数以开发为主！
+
+基本覆盖全国各家知名互联网企业 内推资源丰富 ~ 
 
 之前入群是收费的，现在取消了收费制度！因为我想帮助更多的人 让大家找工作不在是难事 也帮助各个企业在需要招聘的时候能及时找到合适的候选人。
 
@@ -125,17 +127,15 @@
 
 主要以求职招聘的为主 平时会发布一些生活相关的文章 
 
-公众号目前已经开通流量主（广告业务）点击文末的广告一次能获得3毛-1块的广告收入 ~ 很多人会以为这个很赚钱点100次就有100块的收入。 其实这份收入很微薄 有效点击只有30% 点击100次 只有30次能转换成收入吧！ 目前每天收入差不多在10块钱左右 ~  
-
 公众号每周一会推送求职或者招聘的专栏，欢迎大家投稿 （不投稿就没内容发了 哈哈哈）
 
-招聘者投稿格式 https://mp.weixin.qq.com/s/eZEPQzR_kxkeLU-Zwak2sg
+招聘者投稿格式 [点我查看](https://mp.weixin.qq.com/s/eZEPQzR_kxkeLU-Zwak2sg)
 
-求职者投稿格式 https://mp.weixin.qq.com/s/u8oeg8PVODW42H0q7aZ1Ng
+求职者投稿格式 [点我查看](https://mp.weixin.qq.com/s/u8oeg8PVODW42H0q7aZ1Ng)
 
-<div align=center><img src='https://mmbiz.qpic.cn/mmbiz_jpg/FQwwhfsJ9Sz9ficQV8TYPnL7sFGla38f1wOa3LtyNE8vGf1yn9WGFSUSb9BQvQiaNjIic205wIja83dWPpr1IaUuA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1' width='50%'></div>
+<div align=center><img src='https://mmbiz.qpic.cn/mmbiz_jpg/FQwwhfsJ9Sz9ficQV8TYPnL7sFGla38f1wOa3LtyNE8vGf1yn9WGFSUSb9BQvQiaNjIic205wIja83dWPpr1IaUuA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1' width='60%'></div>
 
-<div align=center>麻烦各位关注一波 </div>
+<div align=center>欢迎各位大佬，关注一波 </div>
 
 
 
