@@ -90,6 +90,7 @@
 |拓保软件|前端，后段，数据库，ui|一蓑烟雨任平生|上海|
 |风变科技|前端|渣正|深圳|
 |京东|后端 java|Demo|上海|
+|中国电信|前端 后端| 尘味 |上海|
 
 更新ing...
 
@@ -188,7 +189,8 @@
 
 <div align=center>
 <img src='./img/WechatIMG5.jpeg' width='30%'>
-<img src='./img/WechatIMG7.jpeg' width='30%' style="margin-left:15px">
+<img src='./img/WechatIMG7.jpeg' width='30%'>
+<img src='./img/WechatIMG53.jpeg' width='30%'>
 </div>
 <br>
 <div align=center>如果你觉得对你有帮助，那就随意打赏吧</div>
