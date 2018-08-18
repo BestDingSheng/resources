@@ -198,6 +198,8 @@
 <img src='./img/WechatIMG53.jpeg' width='30%'>
 </div>
 <br>
+<div align=center>3群已200多人，加我好友邀请进群</div>
+<br>
 <div align=center>如果你觉得对你有帮助，那就随意打赏吧</div>
 <br>
 <div align=center>IT技术交流\求职招聘内推\自驾旅游\户外徒步\风光人像摄影 </div>
