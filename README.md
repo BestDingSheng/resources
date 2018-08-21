@@ -210,7 +210,7 @@
 <img src='./img/WechatIMG67.jpeg' width='30%'>
 </div>
 <br>
-<div align=center>4群刚开大家可以扫码直接进</div>
+<div align=center>5群刚开大家可以扫码直接进</div>
 <br>
 <div align=center>如果你觉得对你有帮助，那就随意打赏吧</div>
 <br>
