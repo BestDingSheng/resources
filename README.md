@@ -207,7 +207,7 @@
 <div align=center>
 <img src='./img/WechatIMG5.jpeg' width='30%'>
 <img src='./img/WechatIMG7.jpeg' width='30%'>
-<img src='./img/WechatIMG67.jpeg' width='30%'>
+<img src='./img/WechatIMG68.jpeg' width='30%'>
 </div>
 <br>
 <div align=center>5群刚开大家可以扫码直接进</div>
