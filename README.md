@@ -134,8 +134,7 @@
 |递四方信息科技|产品 、java、架构师|Memory丶|深圳|
 |VIPKID|前端，Java，设计，产品|未知道（zhuwencheng@vipkid.com.cn)|北京|
 |拼多多|岗位不限 19届校招也可以内推|vvliebe 🍔|上海|
-|Airwallex|资深java开发工程师 前端开发工程师  devops运维开发|谢谢谢大王|上海|
-|iHerb|前端开发  全栈工程师  .Net Lead  Devops运维开发| 谢谢谢大王|上海|
+|一罐|iOS 开发 15-25k|张杨|上海|
 
 更新ing...
 
@@ -146,8 +145,6 @@
 |成都好伙伴网络科技有限公司|前端 后端 [点我查看详情](https://jobs.51job.com/all/co4044189.html) | 燕子 |成都|
 |Garmin佳明|岗位不限| Misa misa.qiu@garmin.com |成都|
 
-
-
 ## 猎头岗位
 
 |  公司名 |  岗位 |  联系人(微信群昵称) | 地区 |
@@ -156,6 +153,8 @@
 |鱼泡泡|Android、iOS、C++、推荐算法经理|陈书莹|上海|
 |第四范式|iOS、Android、机器学习建模工程师、广告建模工程师；前端(base 北京)|陈书莹|上海|
 |哒哒英语 |高级前端/架构 java开发/架构 php 移动端ios/android 运维开发 高级产品|tiffany|上海|
+|Airwallex|资深java开发工程师 前端开发工程师  devops运维开发|谢谢谢大王|上海|
+|iHerb|前端开发  全栈工程师  .Net Lead  Devops运维开发| 谢谢谢大王|上海|
 
 更新ing...
 
