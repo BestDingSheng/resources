@@ -132,6 +132,10 @@
 |挖财|前端、后端、算法、数据、测试各种岗位不限|枯叶落帆|上海 杭州|
 |远景智能|java，前端移动端，算法工程师|学贵|上海|
 |递四方信息科技|产品 、java、架构师|Memory丶|深圳|
+|VIPKID|前端，Java，设计，产品|未知道（zhuwencheng@vipkid.com.cn)|北京|
+|拼多多|岗位不限 19届校招也可以内推|vvliebe 🍔|上海|
+|Airwallex|资深java开发工程师 前端开发工程师  devops运维开发|谢谢谢大王|上海|
+|iHerb|前端开发  全栈工程师  .Net Lead  Devops运维开发| 谢谢谢大王|上海|
 
 更新ing...
 
@@ -140,6 +144,7 @@
 | --- | --- | --- | --- |
 |郑州信大捷安信息技术股份有限公司|java 前端 Android linux 常年招聘 |yangc/yangc91|郑州 西安|
 |成都好伙伴网络科技有限公司|前端 后端 [点我查看详情](https://jobs.51job.com/all/co4044189.html) | 燕子 |成都|
+|Garmin佳明|岗位不限| Misa misa.qiu@garmin.com |成都|
 
 
 
