@@ -257,10 +257,10 @@
 <div align=center>
 <img src='./img/WechatIMG5.jpeg' width='30%'>
 <img src='./img/WechatIMG7.jpeg' width='30%'>
-<img src='./img/WechatIMG68.jpeg' width='30%'>
+<img src='./img/WechatIMG76.jpeg' width='30%'>
 </div>
 <br>
-<div align=center>扫码进不来的 加我好友 ~ 晚上会统一邀请进群 </div>
+<div align=center>新开的群大家可以直接扫码进，晚上空了统一拉到大群</div>
 <br>
 <div align=center>如果你觉得对你有帮助，那就随意打赏吧</div>
 <br>
