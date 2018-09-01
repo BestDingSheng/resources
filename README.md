@@ -269,7 +269,7 @@
 <div align=center>
 <img src='./img/WechatIMG5.jpeg' width='30%'>
 <img src='./img/WechatIMG7.jpeg' width='30%'>
-<img src='./img/WechatIMG76.jpeg' width='30%'>
+<img src='./img/WechatIMG85.jpeg' width='30%'>
 </div>
 <br>
 <div align=center>新开的群大家可以直接扫码进，晚上空了统一拉到大群!</div>
