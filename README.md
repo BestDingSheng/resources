@@ -43,7 +43,7 @@
 |深圳500彩票|测试 设计 前端| 澜夕 |深圳|
 |上海米健医疗| react 前端 | jenemy | 上海 |
 |爱奇艺|安卓 ios| vamcc | 上海 |
-|e成科技|岗位不限 |哈撒Q| 上海 深圳 武汉 |
+|e成科技|前端 php go |哈撒Q| 上海 |
 |小红书| 前端 产品 设计| Season | 上海武汉 |
 |薄荷| 前端 | simbawu | 上海 |
 |哈罗单车|[点我查看更多岗位](https://app.mokahr.com/recommendation-apply/hellobike)| 木羊| 上海 |
