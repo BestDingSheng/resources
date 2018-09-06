@@ -84,6 +84,7 @@
 |陌陌|岗位不限|鱼子酱|北京|
 |春秋航空|UI|emery|上海|
 |兑吧|前端|金亮亮|杭州|
+|酷屏信科|[点我查看招聘岗位](https://www.zhipin.com/gongsir/fa955ca458e930a81n140920Eg~~.html?ka=job-detail-company)|超人|上海|
 
 更新ing...
 
