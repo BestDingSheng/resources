@@ -175,6 +175,7 @@
 |成都好伙伴网络科技有限公司|前端 后端 [点我查看详情](https://jobs.51job.com/all/co4044189.html) | 燕子 |成都|
 |Garmin佳明|岗位不限| Misa misa.qiu@garmin.com |成都|
 |思杰|岗位不限|darren|南京|
+|麦迪网络科技|广告优化师|yh6677888@163.com|西安|
 
 ## 猎头岗位
 
