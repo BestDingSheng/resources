@@ -85,6 +85,7 @@
 |兑吧|前端|金亮亮|杭州|
 |酷屏信科|[点我查看招聘岗位](https://www.zhipin.com/gongsir/fa955ca458e930a81n140920Eg~~.html?ka=job-detail-company)|超人|上海|
 |华米|Android 前端 java 算法 php 全栈 ios ui|于梦中|北京|
+|上海道枢信息技术有限公司|岗位不限|瓶瓶|上海 青浦|
 
 更新ing...
 
