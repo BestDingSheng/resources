@@ -146,6 +146,7 @@
 |VIPKID|前端，Java，设计，产品|未知道（zhuwencheng@vipkid.com.cn)|北京|
 |拼多多|岗位不限 19届校招也可以内推|vvliebe 🍔|上海|
 |一罐|iOS 开发 15-25k|张杨|上海|
+|福佑卡车|前端 java 测试|web前端|北京 西二旗|
 
 更新ing...
 
