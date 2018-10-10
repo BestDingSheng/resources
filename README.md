@@ -279,9 +279,11 @@
 ## 我的联系方式
 
 <div align=center>
+<img src='./img/WechatIMG88.jpeg' width='30%'>
 <img src='./img/WechatIMG5.jpeg' width='30%'>
 <img src='./img/WechatIMG7.jpeg' width='30%'>
 </div>
+<div align=center>微信大号（丁盛）好友已经满了，请加Thomas这个号 备注来意!</div>
 <br>
 <div align=center>加我微信备注进群24小时内会邀请您进群!</div>
 <br>
