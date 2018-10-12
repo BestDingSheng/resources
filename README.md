@@ -202,7 +202,7 @@
 
 本群目的 : 求职 招聘 聊天 交友
 
-本人目前已经维护了4个群 成员接近2000人 分布在全国各地 各个职业都有 多数以开发为主！
+本人目前已经维护了5个群 成员接近3000人 分布在全国各地 各个职业都有 多数以开发为主！
 
 基本覆盖全国各家知名互联网企业 内推资源丰富 ~ 
 
@@ -252,29 +252,6 @@
 <img src='./img/WechatIMG12.jpeg' width='30%'>
 <img src='./img/WechatIMG13.jpeg' width='30%'>
 </div>-->
-
-## 公众号
-
-上面说了，现在已经取消了收费制度，所以这个项目现在算是公益项目吧~ 
-
-因为维护和管理这几个群都需要花费不少的精力和时间，不能从中获得一些好处利益其实也蛮难坚持下去的！
-
-最近看到了一些公众号承接一些广告，可以获取一些收入，于是最近开始做起了公众号，公众号的发展还得靠大家支持支持！
-
-**个人公众号 : “这里有大佬”**
-
-主要以求职招聘的为主 平时会发布一些生活相关的文章 
-
-公众号每周一会推送求职或者招聘的专栏，欢迎大家投稿 （不投稿就没内容发了 哈哈哈）
-
-招聘者投稿格式 [点我查看](https://mp.weixin.qq.com/s/eZEPQzR_kxkeLU-Zwak2sg)
-
-求职者投稿格式 [点我查看](https://mp.weixin.qq.com/s/u8oeg8PVODW42H0q7aZ1Ng)
-
-<div align=center><img src='https://mmbiz.qpic.cn/mmbiz_jpg/FQwwhfsJ9Sz9ficQV8TYPnL7sFGla38f1wOa3LtyNE8vGf1yn9WGFSUSb9BQvQiaNjIic205wIja83dWPpr1IaUuA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1' width='60%'></div>
-
-<div align=center>欢迎各位大佬，关注一波 </div>
-
 
 ## 我的联系方式
 
