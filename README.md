@@ -254,9 +254,11 @@
 </div>-->
 
 ## 线下活动
-2018年10月28号第一次组织上海群友线下活动，上青古道一日游
-![](./huwai1.jpeg)
-![](./huwai2.jpeg)
+
+<div align=center>2018年10月28号第一次组织上海群友线下活动，上青古道一日游!</div>
+
+<img src='./img/huwai1.jpeg'>
+<img src='./img/huwai2.jpeg'>
 
 
 ## 我的联系方式
