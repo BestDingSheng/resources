@@ -253,6 +253,12 @@
 <img src='./img/WechatIMG13.jpeg' width='30%'>
 </div>-->
 
+## 线下活动
+2018年10月28号第一次组织上海群友线下活动，上青古道一日游
+![](./huwai1.jpeg)
+![](./huwai2.jpeg)
+
+
 ## 我的联系方式
 
 <div align=center>
