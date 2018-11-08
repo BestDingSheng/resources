@@ -123,6 +123,7 @@
 |美团点评|岗位不限 T2-T3 望京职场| 北京|
 |小电科技|前端|鱼塘|杭州|
 |挖财|java|open|上海|
+|shopee|https://app.mokahr.com/recommendation-apply/shopee|深圳|刘祥裕|
 
 更新ing...
 
