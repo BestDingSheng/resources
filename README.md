@@ -257,7 +257,17 @@
 
 ## 线下活动
 
+<div align=center>2018年11月24号第二次组织上海群友线下活动宁波慈溪桃花岭古道一日游!</div>
+
+<br/>
+
+<img src='./img/huwai3.jpeg'>
+<img src='./img/huwai4.jpeg'>
+<img src='./img/huwai5.jpeg'>
+
 <div align=center>2018年10月28号第一次组织上海群友线下活动，上青古道一日游!</div>
+
+<br/>
 
 <img src='./img/huwai1.jpeg'>
 <img src='./img/huwai2.jpeg'>
