@@ -173,6 +173,7 @@
 |丁香园|前端|丁香园|杭州|
 |菜鸟网络|前端|零零水|杭州|
 |挖财|前端 后端等|天南|杭州|
+|哈曼|[岗位详情](https://platform.moseeker.com/m/position?candidate_source=0&from=singlemessage&recom=fnTixxxxxe&wechat_signature=MGZmOGU5M2E4ZjBjYzU0Y2NhZmI3YzExYzcwZmY5NzE5MzU4YTg5NQ%3D%3D)|叉叉敌|上海 成都 深圳 香港等|
 
 
 ### 郑州 西安 成都 武汉 南京 福州
