@@ -259,6 +259,14 @@
 
 ## 线下活动
 
+<div align=center>2018年12月31号第三次组织上海群友一起跨年~打麻将</div>
+
+<br/>
+
+<img src='./img/201901.jpeg'>
+<img src='./img/201902.jpeg'>
+<img src='./img/201903.jpeg'>
+
 <div align=center>2018年11月24号第二次组织上海群友线下活动宁波慈溪桃花岭古道一日游!</div>
 
 <br/>
