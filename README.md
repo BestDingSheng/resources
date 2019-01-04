@@ -283,6 +283,10 @@
 <img src='./img/huwai2.jpeg'>
 
 
+## 添加岗位
+
+如果你们公也有招聘的岗位可以直接提交PR~ 
+
 ## 我的联系方式
 
 <div align=center>
