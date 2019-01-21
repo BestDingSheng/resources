@@ -246,6 +246,14 @@
 
 ## 线下活动
 
+
+
+<div align=center>2019年1月18号上海体育馆辛香汇聚餐</div>
+
+<br/>
+
+<img src='./img/201904.jpeg'>
+
 <div align=center>2018年12月31号第三次组织上海群友一起跨年~打麻将</div>
 
 <br/>
