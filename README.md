@@ -228,22 +228,6 @@
 建议大家在群内发招聘的时候，提供下要求薪水区间和公司名称。这样大家也方便查询信息决定是否投简历。
 
 
-<!--<div>
-<img src='./img/WechatIMG14.jpeg' width='30%'>
-<img src='./img/WechatIMG15.jpeg' width='30%'>
-<img src='./img/WechatIMG16.jpeg' width='30%'>
-</div>-->
-
-<!--## 群日常
-<div>
-<img src='./img/WechatIMG1.jpeg' width='30%'>
-<img src='./img/WechatIMG2.jpeg' width='30%'>
-<img src='./img/WechatIMG3.jpeg' width='30%'>
-<img src='./img/WechatIMG4.jpeg' width='30%'>
-<img src='./img/WechatIMG12.jpeg' width='30%'>
-<img src='./img/WechatIMG13.jpeg' width='30%'>
-</div>-->
-
 ## 线下活动
 
 
