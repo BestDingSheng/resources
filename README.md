@@ -1,55 +1,103 @@
-## 内推岗位整理
+## 前言
 
-|  公司名 |  岗位 |  联系人(微信群昵称) | 地区 |
-| --- | --- | --- | --- |
-| 众安保险 | [详情请戳我](https://app.mokahr.com/recommendation-apply/zhongan#/?anchorName=000&_k=oiq92t)| 丁盛 | 北京 上海 深圳 杭州|
-| 阿里巴巴 | [详情请戳我](https://job.alibaba.com/zhaopin/position_detail.htm?trace=qrcode_share&positionCode=GP053720) | fengfuming2007|北京 上海 深圳 杭州|
-|蚂蚁金服|前端H5，安卓，ios，后端java，中端node| 马隽D6 |上海|
-|微信|前端 急招|jerry|广州 |
-|今日头条|开发 测试 产品 运营|王鹏举| 北京 上海 杭州|
-|小米|开发 测试 产品等|小豆丁| 北京 上海 深圳 |
-|饿了么|岗位不限|Henry|上海|
-|美团|岗位不限|Grace|上海|
-|陆金所|前端|方晓|上海|
-|科大讯飞|前端|剧中人| 合肥| 
-|诺亚财富|前端、后端 (PHP/JAVA/go)、架构师、市场运营、设计、算法、项目经理 、| Two hundred years| 上海 |
-|哔哩哔哩|[详情请戳我](https://www.bilibili.com/blackboard/join-list.html) |奶黄包| 上海 |
-|深圳500彩票|测试 设计 前端| 澜夕 |深圳|
-|上海米健医疗| react 前端 | jenemy | 上海 |
-|爱奇艺|安卓 ios| vamcc | 上海 |
-|e成科技|前端、后端 (PHP/JAVA/go)、架构师、市场运营、设计、算法、项目经理 |哈撒Q| 上海 深圳 武汉 |
-|小红书| 前端 产品 设计| Season | 上海武汉 |
-|薄荷| 前端 | simbawu | 上海 |
-|哈罗单车|前端 后端 测试| 木羊| 上海 |
-|北京言之有物科技有限公司| 前端实习 java | Xiamer | 北京 |
-|宝尊电商|前端 vue 3年 |范思瑶| 上海 |
-|房多多|前端 [岗位JD](http://job.fangdd.com/index.html#!/jd_detail/58)|虞峯|上海|
-|特赞网|java 后端 |只要我可以| 上海|
-更新ing...
-## 猎头岗位
+首先自我介绍下，我叫丁盛目前在上海从事前端工作，就职众安保险！
 
-更新ing...
+在这个行业也工作了几年，把一些资源整合起来弄了这个内推的项目希望能够帮助一些朋友；
 
-### 后语
+职业原因社交圈子也比较小，也希望能通过这个平台能认识到更多的朋友~ 
 
-应很多朋友要求，开通了打赏，欢迎大家打赏！这不是为了钱是码农之间的心灵互动，是我们友谊的见证。
+目前维护了几个互联网相关圈子的微信群不定期会组织一些线下活动，如果你有兴趣就快来加入我们吧！
 
-觉得不错对您有帮助，麻烦右上角点下star以示鼓励！长期维护不易 多次想放弃 坚持是一种信仰 专注是一种态度！
+> 觉得不错对您有帮助，麻烦右上角点下star以示鼓励！长期维护不易 多次想放弃 坚持是一种信仰 专注是一种态度！
 
-## 互联网-内推-招聘-求职群
-<div>
-<img src='./img/WechatIMG6.jpeg' width='30%'>
+## 内推岗位
+
+### 上海 
+
+| 公司 | 招聘岗位 | 岗位要求 | 工作地点 |
+|----- | -----| ----- | ------ |
+| 众安保险| 岗位不限 | [点我查看](./上海--JD/众安保险.md) | 上海黄浦区圆明园路209号 |
+
+### 北京 
+
+
+### 深圳 
+
+
+### 杭州
+
+
+### 广州
+
+
+## 添加岗位
+
+如果你们公司也有招聘的岗位可以直接提交PR~ 
+
+**步骤如下**
+
+- 在首页Readme中添加目录
+- 把岗位JD放到对应城市文件夹中
+- JD描述文件以公司名来命名
+
+## 线下活动
+
+
+<div align=center>2019年1月26号第四次组织线下活动 狼人杀 聚餐</div>
+
+<br/>
+
+<img src='./img/201904.jpeg'>
+<img src='./img/201905.jpeg'>
+
+<div align=center>2019年1月18号上海体育馆辛香汇聚餐</div>
+
+<br/>
+
+<img src='./img/201904.jpeg'>
+
+<div align=center>2018年12月31号第三次组织上海群友一起跨年~打麻将</div>
+
+<br/>
+
+<img src='./img/201901.jpeg'>
+<img src='./img/201902.jpeg'>
+<img src='./img/201903.jpeg'>
+
+<div align=center>2018年11月24号第二次组织上海群友线下活动宁波慈溪桃花岭古道一日游!</div>
+
+<br/>
+
+<img src='./img/huwai3.jpeg'>
+<img src='./img/huwai4.jpeg'>
+<img src='./img/huwai5.jpeg'>
+
+<div align=center>2018年10月28号第一次组织上海群友线下活动，上青古道一日游!</div>
+
+<br/>
+
+<img src='./img/huwai1.jpeg'>
+<img src='./img/huwai2.jpeg'>
+
+
+## 我的联系方式
+
+<div align=center>
+<img src='./img/WechatIMG88.jpeg' width='30%'>
 <img src='./img/WechatIMG5.jpeg' width='30%'>
 <img src='./img/WechatIMG7.jpeg' width='30%'>
 </div>
+<div align=center>微信大号（丁盛）好友已经满了，请加Thomas这个号 备注来意!</div>
+<br>
+<div align=center>加我微信备注进群24小时内会邀请您进群!</div>
+<br>
+<div align=center>如果你觉得对你有帮助，那就随意打赏吧</div>
+<br>
+<div align=center>IT技术交流\求职招聘内推\自驾旅游\户外徒步\风光人像摄影 </div>
+<br>
+<div align=center>风里雨里我在这儿等你，欢迎勾搭！</div>
 
-本群目的 : 求职 招聘
 
-本群理念 : 找工作不再难，进名企不是梦
-
-现在本群已有250+成员 大多来自一线互联网企业，为了保证本群的质量实行收费制进群 30/人 处于人性化考虑，以及为了群友谋福利 现实行 妹子免费 汉子收费！
-
-想进群的加我微信，备注来意。
 
 
 
