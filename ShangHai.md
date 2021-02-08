@@ -1,11 +1,11 @@
-# 上海的一些互联网公司
+# 上海的一些公司
 
 <table style="font-size: 12px">
   <thead align="center">
     <tr>
       <th>📦 公司</th>
       <th>📃 描述</th>
-      <th>❤️ 类型</th>
+      <th>❤️ 行业</th>
       <th>🕑 工作时间</th>
       <th>💲 年终(月) </th>
       <th>👫 内推人 (微信) </th>
@@ -31,7 +31,7 @@
     <tr>
       <td>携程</td>
       <td>  总部 长宁大虹桥 </td>
-      <td>OTA</td>
+      <td>旅游</td>
       <td>双休</td>
       <td>3</td>
       <td>等你来填</td>
@@ -39,7 +39,7 @@
     <tr>
       <td>饿了么</td>
       <td> 总部 普陀近铁城市广场阿里本地生活  </td>
-      <td>OTA</td>
+      <td>外卖</td>
       <td>双休</td>
       <td>2</td>
       <td>等你来填</td>
