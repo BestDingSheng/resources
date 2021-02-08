@@ -1,116 +1,166 @@
-## 前言
+# 前言
 
-首先自我介绍下，我叫丁盛目前在上海从事前端工作，就职众安保险！
-
-在这个行业也工作了几年，把一些资源整合起来弄了这个内推的项目希望能够帮助一些朋友；
-
-职业原因社交圈子也比较小，也希望能通过这个平台能认识到更多的朋友~
-
-目前维护了几个互联网相关圈子的微信群不定期会组织一些线下活动，如果你有兴趣就快来加入我们吧！
-
-> 觉得不错对您有帮助，麻烦右上角点下star以示鼓励！长期维护不易 多次想放弃 坚持是一种信仰 专注是一种态度！
+>首先自我介绍下，我叫丁盛目前在上海从事前端工作，就职众安保险！在这个行业也工作了几年，把一些资源整合起来弄了这个内推的项目希望能够帮助一些朋友；职业原因社交圈子也比较小，也希望能通过这个平台能认识到更多的朋友 ~
 
 ## 内推岗位
 
 ### 上海
 
-| 公司 | 招聘岗位 | 岗位要求 | 工作地点 |
-|----- | -----| ----- | ------ |
-| 众安保险| 岗位不限 | [点我查看](./上海--JD/众安保险.md) | 上海黄浦区圆明园路209号 |
-| 哈啰出行| 岗位不限，主要Android | [点我查看](./上海--JD/哈啰出行.md) | 上海闵行区秀文路898号西子国际中心 |
-| 飞贷金融 | 前端 Java 岗位不限 | [点我查看](./深圳--JD/飞贷金融.md) | 上海市-浦东新区-东方路3539号东方尚博创意产业园3号楼3楼 |
-| 依图科技 | 岗位不限 | [点我查看](./上海--JD/依图科技.md) | 上海市长宁区娄山关路523号金虹桥国际中心1座2 |
+<table style="font-size: 12px">
+  <thead align="center">
+    <tr>
+      <th>📦 公司</th>
+      <th>📃 招聘岗位</th>
+      <th>🌈 工作地点 </th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>众安保险</td>
+      <td>
+        <a target="_blank" href="./上海--JD/众安保险.md">点我查看</a>
+      </td>
+      <td>上海黄浦区</td>
+    </tr>
+    <tr>
+      <td>哈啰出行</td>
+      <td>
+        <a target="_blank" href="./上海--JD/哈啰出行.md">点我查看</a>
+      </td>
+      <td>上海闵行区</td>
+    </tr>
+    <tr>
+      <td>飞贷金融	</td>
+      <td>
+        <a target="_blank" href="./深圳--JD/飞贷金融.md">点我查看</a>
+      </td>
+      <td>上海浦东新区</td>
+    </tr>
+    <tr>
+      <td>依图科技</td>
+      <td>
+        <a target="_blank" href="./上海--JD/依图科技.md">点我查看</a>
+      </td>
+      <td>上海长宁区</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 北京
 
-| 公司 | 招聘岗位 | 岗位要求 | 工作地点 |
-|----- | -----| ----- | ------ |
-| 水滴筹| 前端 Java | [点我查看](./北京--JD/水滴筹.md) | 北京 |
-| 依图科技 | 岗位不限 | [点我查看](./上海--JD/依图科技.md) | 北京市海淀区科学院南路2号融科资讯中心C座南楼 |
-| 贝壳找房 | 岗位不限 | [点击查看](./北京--JD/贝壳找房.md) | 北京 |
+
+<table style="font-size: 12px">
+  <thead align="center">
+    <tr>
+      <th>📦 公司</th>
+      <th>📃 招聘岗位</th>
+      <th>🌈 工作地点 </th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>水滴筹</td>
+      <td>
+        <a target="_blank" href="./北京--JD/水滴筹.md">点我查看</a>
+      </td>
+      <td>北京</td>
+    </tr>
+    <tr>
+      <td>贝壳找房</td>
+      <td>
+        <a target="_blank" href="./北京--JD/贝壳找房.md">点我查看</a>
+      </td>
+      <td>北京</td>
+    </tr>
+    <tr>
+      <td>依图科技</td>
+      <td>
+        <a target="_blank" href="./上海--JD/依图科技.md">点我查看</a>
+      </td>
+      <td>北京海淀区</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 深圳
 
-| 公司 | 招聘岗位 | 岗位要求 | 工作地点 |
-|----- | -----| ----- | ------ |
-| 飞贷金融 | 前端 Java 岗位不限 | [点我查看](./深圳--JD/飞贷金融.md) | 深圳市-南山区-科技园-科苑路11号金融科技大厦A座21层 |
-|虾皮购物| 岗位不限 |[点击查看](./深圳--JD/虾皮购物.md)|深圳 新加坡|
+<table style="font-size: 12px">
+  <thead align="center">
+    <tr>
+      <th>📦 公司</th>
+      <th>📃 招聘岗位</th>
+      <th>🌈 工作地点 </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>虾皮购物</td>
+      <td>
+        <a target="_blank" href="./深圳--JD/虾皮购物.md">点我查看</a>
+      </td>
+      <td>深圳 新加坡</td>
+    </tr>
+    <tr>
+      <td>飞贷金融</td>
+      <td>
+        <a target="_blank" href="./深圳--JD/飞贷金融.md">点我查看</a>
+      </td>
+      <td>深圳南山区</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 杭州
 
-| 公司 | 招聘岗位 | 岗位要求 | 工作地点 |
-|----- | -----| ----- | ------ |
-| 依图科技 | 岗位不限 | [点我查看](./上海--JD/依图科技.md) | 杭州市西湖区古墩路87号浙商财富中心3号楼 |
-
-### 广州
-
+<table style="font-size: 12px">
+  <thead align="center">
+    <tr>
+      <th>📦 公司</th>
+      <th>📃 招聘岗位</th>
+      <th>🌈 工作地点 </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>依图科技</td>
+      <td>
+        <a target="_blank" href="./上海--JD/依图科技.md">点我查看</a>
+      </td>
+      <td>杭州西湖区</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 添加岗位
 
-在此仓库添加招聘岗位的方式有两种
+### 由我来添加
 
-1 把公司的招聘信息 发送到我的邮箱由我来添加 727040141@qq.com
+微信或者邮件`dingsheng1996@qq.com`把招聘岗位的相关信息发我;
 
-2 自己按照现有岗位格式提交PR
+### 自己提交PR
 
-**步骤如下**
+1. **Fork** it on GitHub!
+2. **Clone** the fork to your own machine.
+3. **Checkout** your feature branch: `git checkout -b my-awesome-feature`
+4. **Commit** your changes to your own branch: `git commit -am 'Add some feature'`
+5. **Push** your work back up to your fork: `git push -u origin my-awesome-feature`
+6. Submit a **Pull Request** so that we can review your changes.
 
-- 在首页Readme中添加目录
-- 把岗位JD放到对应城市文件夹中
-- JD描述文件以公司名来命名
+> **NOTE**: Be sure to merge the latest from "upstream" before making a pull request!
 
 ## 线下活动
 
-
-<div align=center>2019年1月26号第四次组织线下活动 狼人杀 聚餐</div>
-
-<br/>
-
-<img src='./img/201905.jpeg'>
-<img src='./img/201906.jpeg'>
-
-<div align=center>2019年1月18号上海体育馆辛香汇聚餐</div>
-
-<br/>
-
-<img src='./img/201904.jpeg'>
-
-<div align=center>2018年12月31号第三次组织上海群友一起跨年~打麻将</div>
-
-<br/>
-
-<img src='./img/201901.jpeg'>
-<img src='./img/201902.jpeg'>
-<img src='./img/201903.jpeg'>
-
-<div align=center>2018年11月24号第二次组织上海群友线下活动宁波慈溪桃花岭古道一日游!</div>
-
-<br/>
-
-<img src='./img/huwai3.jpeg'>
-<img src='./img/huwai4.jpeg'>
-<img src='./img/huwai5.jpeg'>
-
-<div align=center>2018年10月28号第一次组织上海群友线下活动，上青古道一日游!</div>
-
-<br/>
-
-<img src='./img/huwai1.jpeg'>
-<img src='./img/huwai2.jpeg'>
-
+[点我查看](./Activity)
 
 ## 我的联系方式
 
+- email: dingsheng1996@qq.com
+- wechat:
+
 <div align=center>
-<img src='./img/WechatIMG88.jpeg' width='30%'>
-<img src='./img/WechatIMG5.jpeg' width='30%'>
-<img src='./img/WechatIMG7.jpeg' width='30%'>
+    <img src='https://cdn.jsdelivr.net/gh/BestDingSheng/static-resource@master/resource/img/me-wecaht.jpeg' width='30%'>
 </div>
-<div align=center>微信大号（丁盛）好友已经满了，请加Thomas这个号 备注来意!</div>
-<br>
-<div align=center>加我微信备注进群24小时内会邀请您进群!</div>
-<br>
-<div align=center>如果你觉得对你有帮助，那就随意打赏吧</div>
-<br>
-<div align=center>IT技术交流\求职招聘内推\自驾旅游\户外徒步\风光人像摄影 </div>
-<br>
-<div align=center>风里雨里我在这儿等你，欢迎勾搭！</div>
