@@ -832,10 +832,10 @@
     <tr>
       <td>快手</td>
       <td> 总部  </td>
-      <td></td>
-      <td>双休</td>
-      <td>3</td>
-      <td></td>
+      <td>短视频</td>
+      <td>大小周</td>
+      <td>4</td>
+      <td>X3hfeHhfeHh4X3h4X3hf</td>
     </tr>
 		<tr>
       <td>京东数科</td>
