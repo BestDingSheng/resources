@@ -8,7 +8,7 @@
       <th>❤️ 类型</th>
       <th>🕑 工作时间</th>
       <th>💲 年终(月) </th>
-      <th>👱‍♀️ 👱 内推人 </th>
+      <th>👫 内推人 (微信) </th>
     </tr>
   </thead>
   <tbody>
@@ -18,7 +18,7 @@
       <td>保险</td>
       <td>双休</td>
       <td>3</td>
-      <td>丁盛 MTMxMjIwMjIzODg=</td>
+      <td>MTMxMjIwMjIzODg=</td>
     </tr>
     <tr>
       <td>哔哩哔哩</td>
@@ -259,7 +259,7 @@
     <tr>
       <td>七牛云</td>
       <td>  总部 浦东亮秀路  </td>
-      <td>云计算 PaaS 服务商</td>
+      <td>云计算</td>
       <td></td>
       <td></td>
       <td>等你来填</td>
