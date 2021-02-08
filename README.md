@@ -80,6 +80,20 @@
       </td>
       <td>北京海淀区</td>
     </tr>
+    <tr>
+      <td>快手-电商</td>
+      <td>
+        <a target="_blank" href="./北京--JD/快手-电商.md">点我查看</a>
+      </td>
+      <td>北京</td>
+    </tr>
+    <tr>
+      <td>美团-团好货</td>
+      <td>
+        <a target="_blank" href="./北京--JD/美团-团好货.md">点我查看</a>
+      </td>
+      <td>北京</td>
+    </tr>
   </tbody>
 </table>
 
@@ -250,7 +264,7 @@
        总部 静安江场三路
       </td>
       <td>跨境电商电商 </td>
-      <td>明休</td>
+      <td>不明</td>
       <td></td>
       <td>等你来填</td>
     </tr>
@@ -260,7 +274,7 @@
        总部 杨浦东方渔人码头
       </td>
       <td></td>
-      <td>明休</td>
+      <td>不明</td>
       <td></td>
       <td>等你来填</td>
     </tr>
@@ -270,7 +284,7 @@
     总部 宝山淞发路 
       </td>
       <td>Saas服务商</td>
-      <td>不明</td>
+      <td>双休</td>
       <td></td>
       <td>等你来填</td>
     </tr>
