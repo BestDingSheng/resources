@@ -31,7 +31,7 @@
       <td>上海闵行区</td>
     </tr>
     <tr>
-      <td>飞贷金融	</td>
+      <td>飞贷金融</td>
       <td>
         <a target="_blank" href="./深圳--JD/飞贷金融.md">点我查看</a>
       </td>
@@ -43,6 +43,13 @@
         <a target="_blank" href="./上海--JD/依图科技.md">点我查看</a>
       </td>
       <td>上海长宁区</td>
+    </tr>
+    <tr>
+      <td>七牛云-视频云团队</td>
+      <td>
+        <a target="_blank" href="./上海--JD/七牛云-视频云.md">点我查看</a>
+      </td>
+      <td>上海</td>
     </tr>
   </tbody>
 </table>
@@ -94,6 +101,13 @@
       </td>
       <td>北京</td>
     </tr>
+    <tr>
+      <td>七牛云-视频云团队</td>
+      <td>
+        <a target="_blank" href="./上海--JD/七牛云-视频云.md">点我查看</a>
+      </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -142,6 +156,13 @@
         <a target="_blank" href="./上海--JD/依图科技.md">点我查看</a>
       </td>
       <td>杭州西湖区</td>
+    </tr>
+    <tr>
+      <td>七牛云-视频云团队</td>
+      <td>
+        <a target="_blank" href="./上海--JD/七牛云-视频云.md">点我查看</a>
+      </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
