@@ -30,7 +30,8 @@
     <tr>
       <th>📦 公司</th>
       <th>📃 招聘岗位</th>
-      <th>🌈 工作地点 </th>
+      <th>🗺 工作地点 </th>
+      <th>📢 状态 </th> 
     </tr>
   </thead>
 
@@ -40,35 +41,48 @@
       <td>
         <a target="_blank" href="./上海--JD/众安保险.md">点我查看</a>
       </td>
-      <td>上海黄浦区</td>
+      <td>黄浦区</td>
+      <td>急招</td>
     </tr>
     <tr>
-      <td>哈啰出行</td>
+      <td>哔哩哔哩</td>
       <td>
-        <a target="_blank" href="./上海--JD/哈啰出行.md">点我查看</a>
+        <a target="_blank" href="./上海--JD/哔哩哔哩-电商.md">点我查看</a>
       </td>
-      <td>上海闵行区</td>
-    </tr>
-    <tr>
-      <td>飞贷金融</td>
-      <td>
-        <a target="_blank" href="./深圳--JD/飞贷金融.md">点我查看</a>
-      </td>
-      <td>上海浦东新区</td>
-    </tr>
-    <tr>
-      <td>依图科技</td>
-      <td>
-        <a target="_blank" href="./上海--JD/依图科技.md">点我查看</a>
-      </td>
-      <td>上海长宁区</td>
+      <td>杨浦区</td>
+      <td>急招</td>
     </tr>
     <tr>
       <td>七牛云-视频云团队</td>
       <td>
         <a target="_blank" href="./上海--JD/七牛云-视频云.md">点我查看</a>
       </td>
-      <td>上海</td>
+      <td>浦东新区</td>
+      <td>急招</td>
+    </tr>
+    <tr>
+      <td>哈啰出行</td>
+      <td>
+        <a target="_blank" href="./上海--JD/哈啰出行.md">点我查看</a>
+      </td>
+      <td>闵行区</td>
+      <td>长期招人</td>
+    </tr>
+    <tr>
+      <td>飞贷金融</td>
+      <td>
+        <a target="_blank" href="./深圳--JD/飞贷金融.md">点我查看</a>
+      </td>
+      <td>浦东新区</td>
+      <td>长期招人</td>
+    </tr>
+    <tr>
+      <td>依图科技</td>
+      <td>
+        <a target="_blank" href="./上海--JD/依图科技.md">点我查看</a>
+      </td>
+      <td>长宁区</td>
+      <td>长期招人</td>
     </tr>
   </tbody>
 </table>
@@ -80,38 +94,19 @@
     <tr>
       <th>📦 公司</th>
       <th>📃 招聘岗位</th>
-      <th>🌈 工作地点 </th>
+      <th>🗺 工作地点 </th>
+       <th>📢 状态 </th> 
     </tr>
   </thead>
 
   <tbody>
-    <tr>
-      <td>水滴筹</td>
-      <td>
-        <a target="_blank" href="./北京--JD/水滴筹.md">点我查看</a>
-      </td>
-      <td>北京</td>
-    </tr>
-    <tr>
-      <td>贝壳找房</td>
-      <td>
-        <a target="_blank" href="./北京--JD/贝壳找房.md">点我查看</a>
-      </td>
-      <td>北京</td>
-    </tr>
-    <tr>
-      <td>依图科技</td>
-      <td>
-        <a target="_blank" href="./上海--JD/依图科技.md">点我查看</a>
-      </td>
-      <td>北京海淀区</td>
-    </tr>
     <tr>
       <td>快手-电商</td>
       <td>
         <a target="_blank" href="./北京--JD/快手-电商.md">点我查看</a>
       </td>
       <td>北京</td>
+      <td>急招</td>
     </tr>
     <tr>
       <td>美团-团好货</td>
@@ -119,13 +114,39 @@
         <a target="_blank" href="./北京--JD/美团-团好货.md">点我查看</a>
       </td>
       <td>北京</td>
+      <td>急招</td>
     </tr>
     <tr>
       <td>七牛云-视频云团队</td>
       <td>
         <a target="_blank" href="./上海--JD/七牛云-视频云.md">点我查看</a>
       </td>
-      <td></td>
+      <td>北京</td>
+      <td>急招</td>
+    </tr>
+    <tr>
+      <td>水滴筹</td>
+      <td>
+        <a target="_blank" href="./北京--JD/水滴筹.md">点我查看</a>
+      </td>
+      <td>北京</td>
+      <td>长期招人</td>
+    </tr>
+    <tr>
+      <td>贝壳找房</td>
+      <td>
+        <a target="_blank" href="./北京--JD/贝壳找房.md">点我查看</a>
+      </td>
+      <td>北京</td>
+      <td>长期招人</td>
+    </tr>
+    <tr>
+      <td>依图科技</td>
+      <td>
+        <a target="_blank" href="./上海--JD/依图科技.md">点我查看</a>
+      </td>
+      <td>北京海淀区</td>
+      <td>长期招人</td>
     </tr>
   </tbody>
 </table>
@@ -137,7 +158,8 @@
     <tr>
       <th>📦 公司</th>
       <th>📃 招聘岗位</th>
-      <th>🌈 工作地点 </th>
+      <th>🗺 工作地点 </th>
+      <th>📢 状态 </th> 
     </tr>
   </thead>
   <tbody>
@@ -147,6 +169,7 @@
         <a target="_blank" href="./深圳--JD/虾皮购物.md">点我查看</a>
       </td>
       <td>深圳 新加坡</td>
+      <td>急招</td>
     </tr>
     <tr>
       <td>飞贷金融</td>
@@ -154,6 +177,7 @@
         <a target="_blank" href="./深圳--JD/飞贷金融.md">点我查看</a>
       </td>
       <td>深圳南山区</td>
+      <td>长期招人</td>
     </tr>
   </tbody>
 </table>
@@ -165,23 +189,26 @@
     <tr>
       <th>📦 公司</th>
       <th>📃 招聘岗位</th>
-      <th>🌈 工作地点 </th>
+      <th>🗺 工作地点 </th>
+      <th>📢 状态 </th> 
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>七牛云-视频云团队</td>
+      <td>
+        <a target="_blank" href="./上海--JD/七牛云-视频云.md">点我查看</a>
+      </td>
+      <td>杭州</td>
+      <td>急招</td>
+    </tr>
     <tr>
       <td>依图科技</td>
       <td>
         <a target="_blank" href="./上海--JD/依图科技.md">点我查看</a>
       </td>
       <td>杭州西湖区</td>
-    </tr>
-    <tr>
-      <td>七牛云-视频云团队</td>
-      <td>
-        <a target="_blank" href="./上海--JD/七牛云-视频云.md">点我查看</a>
-      </td>
-      <td></td>
+      <td>长期招人</td>
     </tr>
   </tbody>
 </table>
@@ -218,7 +245,7 @@
       <td>视频平台</td>
       <td>双休</td>
       <td>3</td>
-      <td>等你来填</td>
+      <td>X2Zyb250ZW5k</td>
     </tr>
     <tr>
       <td>携程</td>
