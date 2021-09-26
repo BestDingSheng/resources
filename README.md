@@ -117,6 +117,14 @@
       <td>急招</td>
     </tr>
     <tr>
+      <td>美团-酒旅</td>
+      <td>
+        <a target="_blank" href="./北京--JD/美团-酒旅.md">点我查看</a>
+      </td>
+      <td>北京</td>
+      <td>急招</td>
+    </tr>
+    <tr>
       <td>七牛云-视频云团队</td>
       <td>
         <a target="_blank" href="./上海--JD/七牛云-视频云.md">点我查看</a>
